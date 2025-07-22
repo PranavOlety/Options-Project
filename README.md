@@ -13,4 +13,5 @@ FILES
 - monte_caro.ipynb (jupyter notebook version of the above) 
 
 - .gitignore (ignores certain files during dev process/not relevant for final project)
+  
 report attached separately outside of zip folder
